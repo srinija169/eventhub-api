@@ -113,7 +113,6 @@ eventhub/
     ├── urls.py
     └── migrations/
 
----
 
 # Middleware
 
