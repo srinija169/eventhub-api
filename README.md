@@ -1,5 +1,9 @@
 # EventHub API
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Django](https://img.shields.io/badge/Django-5.2-green)
+![DRF](https://img.shields.io/badge/DRF-REST%20Framework-red)
+
 A Django REST Framework backend API for managing event ticket reservations.
 
 The API allows users to:
