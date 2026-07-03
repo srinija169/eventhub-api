@@ -316,19 +316,6 @@ The API was tested using:
 
 ---
 
-# Future Improvements
-
-- JWT Authentication
-- User registration and login
-- Pagination
-- Search functionality
-- Docker support
-- Swagger/OpenAPI documentation
-- Unit tests
-- Deployment on Render or Azure
-
----
-
 # Author
 
 **Srinija Velaga**
