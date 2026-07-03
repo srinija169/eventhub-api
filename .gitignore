@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# SQLite database
+db.sqlite3
+
+# Virtual environments
+venv/
+.env
+
+# VS Code settings
+.vscode/
+
+# Visual Studio settings
+.vs/
+
+# Python package files
+*.egg-info/
+
+# Logs
+*.log
